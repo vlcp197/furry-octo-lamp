@@ -1,5 +1,9 @@
-# furry-octo-lamp
+# Git e GitHub
 
-Bem vindo a furry-octo-lamp :tada:
+Repositório de nome aleatório criado como exercício dos cursos de ***Git e GitHub*** da ***Digital Innovation One***  
 
-O repositório onde entendemos como serras elétricas são extremamente cautelosas
+---
+
+#### Links Úteis:  
+[***Git***](https://git-scm.com/doc)  
+[***GitHub***](https://docs.github.com/pt)
